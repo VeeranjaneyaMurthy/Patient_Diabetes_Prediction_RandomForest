@@ -1,2 +1,1 @@
-# Patient_Diabetes_Prediction_RandomForest
-Patient_Diabetes_Prediction_RandomForest
+# Predicting Diabetes by Using Random Forest
