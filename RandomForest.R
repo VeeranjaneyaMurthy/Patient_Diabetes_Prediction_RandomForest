@@ -2,7 +2,7 @@
 
 #1st Step: Data Aquisition
 
-diabet<-read.csv("D:/Data Science/Machine Learning/Shakti/Dataset/diabetes.csv")
+diabet<-read.csv("diabetes.csv")
 View(diabet)
 
 
